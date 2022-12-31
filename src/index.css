@@ -1,0 +1,25 @@
+body {
+  background-color: #23252c;
+}
+
+.info {
+  background-color: #1a1b21;
+  color: #ffffff;
+  padding-top: 20px;
+  width: inherit;
+}
+
+.info > h4 {
+  color: #f3bf99;
+  font-weight: 400;
+  font-size: 12.8px;
+}
+
+.container {
+  width: 340px;
+  margin: auto;
+}
+
+img {
+  width: inherit;
+}
