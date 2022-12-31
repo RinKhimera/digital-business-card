@@ -1,5 +1,7 @@
 body {
   background-color: #23252c;
+  color: #ffffff;
+  font-weight: 400;
 }
 
 img {
@@ -13,7 +15,6 @@ img {
 
 .info {
   background-color: #1a1b21;
-  color: #ffffff;
   padding-top: 20px;
   width: inherit;
 }
@@ -22,4 +23,14 @@ img {
   color: #f3bf99;
   font-weight: 400;
   font-size: 12.8px;
+}
+
+.about {
+  background-color: #1a1b21;
+  padding: 50px 0;
+}
+
+.interests {
+  background-color: #1a1b21;
+  padding-bottom: 50px;
 }
