@@ -2,6 +2,15 @@ body {
   background-color: #23252c;
 }
 
+img {
+  width: inherit;
+}
+
+.container {
+  width: 340px;
+  padding: 0;
+}
+
 .info {
   background-color: #1a1b21;
   color: #ffffff;
@@ -13,13 +22,4 @@ body {
   color: #f3bf99;
   font-weight: 400;
   font-size: 12.8px;
-}
-
-.container {
-  width: 340px;
-  margin: auto;
-}
-
-img {
-  width: inherit;
 }
