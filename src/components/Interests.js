@@ -5,8 +5,9 @@ const Interests = () => {
     <div className="container interests px-4">
       <h3>Interests</h3>
       <p>
-        Coding Enthusiast. Music scholar. Reader. Internet fanatic. Chicken
-        Lover. Entrepreneur. Travel geek. Anime Seeker. G2 Fanboy.
+        Coding Enthusiast. Music Scholar. Reader. Internet Fanatic. Chicken
+        Lover. Entrepreneur. Travel Geek. Anime Seeker. G2 Fanboy. Programming
+        Tryharder. Happiness Chaser.
       </p>
     </div>
   );
