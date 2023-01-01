@@ -20,7 +20,7 @@ const Info = () => {
         <div className="">
           <div className="gap-3 d-flex py-2 justify-content-center">
             <a
-              href="https://rinkhimera.github.io/"
+              href="https://github.com/RinKhimera/digital-business-card"
               target="_blank"
               rel="noreferrer"
               role="button"
